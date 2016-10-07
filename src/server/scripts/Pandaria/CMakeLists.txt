@@ -98,7 +98,6 @@ set(scripts_STAT_SRCS
   Pandaria/SiegeOfOrgrimmar/siege_of_orgrimmar.h
   Pandaria/SiegeOfOrgrimmar/siege_of_orgrimmar.cpp
   Pandaria/SiegeOfOrgrimmar/instance_siege_of_orgrimmar.cpp
-  Pandaria/SiegeOfOrgrimmar/boss_immersius.cpp
   Pandaria/SiegeOfOrgrimmar/boss_fallen_protectors.cpp	
   Pandaria/SiegeOfOrgrimmar/boss_norushen.cpp
   Pandaria/SiegeOfOrgrimmar/boss_sha_of_pride.cpp
